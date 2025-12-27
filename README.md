@@ -1,7 +1,7 @@
 # MatrixApp
 "Sistema de Gestão para lanchonete Sabor Vila" 
 # MatrixApp
-
+L
 **Sistema de Gestão para Lanchonete Sabor Vila**
 
 MatrixApp é um aplicativo modular desenvolvido para otimizar a operação de pequenas empresas do setor alimentício. Criado com foco em eficiência, visualização de dados e gestão colaborativa.
